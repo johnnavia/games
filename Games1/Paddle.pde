@@ -1,6 +1,6 @@
 //sprites
 class Paddle {
-  int ancho, largo, x, y;
+  int ancho, x, largo, y;
 
   public Paddle() {
     largo = height/22;
